@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "Approved. I read the whole thing, which apparently makes it mine."
+LINE = "Approved. I read all of it, so I suppose it's mine now."
 
 OUT_PATH = "/output/entry.txt"
 
